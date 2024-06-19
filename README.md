@@ -17,7 +17,6 @@ Welcome to the Pokémon Data Analysis and Classification project! In this reposi
 - [Insights](#insights)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
