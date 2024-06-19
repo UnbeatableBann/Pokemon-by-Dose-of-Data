@@ -83,6 +83,8 @@ The predictive modeling section includes building and evaluating models to class
 - Random Forest Classifier
 - XGBoost Classifier
 
+![image](https://github.com/UnbeatableBann/Pokemon-by-Dose-of-Data/assets/140196120/4713531d-3b71-46ab-b7af-42246c020b0f)
+
 ### Model Training and Evaluation
 
 We split the data into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, recall, and F1 score.
@@ -97,11 +99,11 @@ Hyperparameter tuning is performed to optimize the model's performance.
 
 Here are some interesting insights derived from the exploratory data analysis:
 
-- **Type Distribution:** Water and Normal types are the most common primary types among Pokémon.
+- **Type Distribution:** Water and Normal types are the most common primary types among Pokémon. Some types, such as Ice and Ghost, are less common compared to others.
 - **Base Stats:** Legendary Pokémon generally have higher base stats across all categories compared to non-legendary Pokémon. Specifically, Legendary Pokémon excel in HP, Attack, and Special Attack.
-- **Generational Patterns:** Each generation introduces a variety of new types and stats. For instance, Generation 1 has a higher average Attack stat compared to later generations.
+- **Generational Patterns:** Each generation introduces a variety of new types and stats. For instance, Generation 4 has a higher average Attack stat compared to other generations.
 - **Height and Weight Correlation:** There is a moderate positive correlation between the height and weight of Pokémon, meaning taller Pokémon tend to be heavier.
-- **Type Combinations:** Some type combinations are more prevalent among Legendary Pokémon. For example, Dragon and Psychic types are common among Legendaries.
+- **Type Combinations:** Some type combinations are more prevalent among Legendary Pokémon. For example, Dragon and Psychic types are common among Legendaries. But as secondary type it changes.
 - **Capture Rates:** Legendary Pokémon have significantly lower capture rates compared to non-legendary Pokémon, making them harder to catch.
 
 These insights can be valuable for Pokémon enthusiasts and researchers to understand the characteristics and patterns within the Pokémon universe.
