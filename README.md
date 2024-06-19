@@ -105,8 +105,13 @@ Here are some interesting insights derived from the exploratory data analysis:
 - **Height and Weight Correlation:** There is a moderate positive correlation between the height and weight of Pokémon, meaning taller Pokémon tend to be heavier.
 - **Type Combinations:** Some type combinations are more prevalent among Legendary Pokémon. For example, Dragon and Psychic types are common among Legendaries. But as secondary type it changes.
 - **Capture Rates:** Legendary Pokémon have significantly lower capture rates compared to non-legendary Pokémon, making them harder to catch.
+- **Others:**
+- As base egg steps increase, the possibility of a Pokémon being legendary increases.
+- We can say that as height increases, weight also increases.
+- Similarly, as attack increases, defense power also increases.
+- Pokémon with more power against ghosts also have more power against the dark.
+- Pokémon with more power against flying also have more power against fire and poison.
 
-These insights can be valuable for Pokémon enthusiasts and researchers to understand the characteristics and patterns within the Pokémon universe.
 
 ## Results
 
