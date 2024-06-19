@@ -47,8 +47,8 @@ For more details, refer to the [data.md](data.md) file.
 To get started, clone this repository to your local machine and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/pokemon-data-analysis.git
-cd pokemon-data-analysis
+git clone https://github.com/UnbeatableBann/Pokemon-by-Dose-of-Data.git
+cd Pokemon-by-Dose-of-Data
 pip install -r requirements.txt
 ```
 
@@ -70,7 +70,9 @@ In the EDA section, we explore various aspects of the Pokémon dataset:
 - **Correlations:** Identify correlations between different attributes.
 - **Height and Weight Analysis:** Explore how heights and weights vary across different types and generations.
 
-![EDA Example](https://example.com/eda_example.png)
+![image](https://github.com/UnbeatableBann/Pokemon-by-Dose-of-Data/assets/140196120/463e72ad-c47a-49d3-a631-0e0356018a5c)
+
+![image](https://github.com/UnbeatableBann/Pokemon-by-Dose-of-Data/assets/140196120/6a3e1a0b-1ba6-4d68-85b9-1d88073e20af)
 
 ## Predictive Modeling
 
@@ -89,7 +91,7 @@ We split the data into training and testing sets, train the models, and evaluate
 
 Hyperparameter tuning is performed to optimize the model's performance.
 
-![Model Comparison](https://example.com/model_comparison.png)
+![image](https://github.com/UnbeatableBann/Pokemon-by-Dose-of-Data/assets/140196120/d2b188bb-3afe-4a49-bf82-21df97bb079f)
 
 ## Insights
 
@@ -110,10 +112,10 @@ The performance of each model is evaluated, and the best-performing model is sel
 
 | Model                 | Accuracy |
 |-----------------------|----------|
-| Logistic Regression   | 0.95     |
-| Decision Tree         | 0.90     |
-| Random Forest         | 0.96     |
-| XGBoost               | 0.97     |
+| Logistic Regression   | 0.93     |
+| Decision Tree         | 0.93     |
+| Random Forest         | 0.92     |
+| XGBoost               | 0.92     |
 
 ## Contributing
 
